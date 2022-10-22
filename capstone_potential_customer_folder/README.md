@@ -1,4 +1,4 @@
-Capstone project - Identify potential customer for targeted marketing based on purchase behaviour using supervised machine learning
+<h1>Capstone project - Identify potential customer for targeted marketing based on purchase behaviour using supervised machine learning</h1>
 
 Customer is the most critical aspect of every business and developing marketing strategies to bring in new customers as well as building long-term relationship with existing customers is a common problem for every business. Through analysing existing customers' data such as their purchase preferences, one can gain many insights that could save marketing cost and time.
 
